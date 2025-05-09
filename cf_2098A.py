@@ -13,4 +13,4 @@ for _ in range(t):
                 answer.append(str(d))
                 count[d] -= 1
                 break
-    print(''.join(answer))
+            print(''.join(answer))
